@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.7.6)
+    ethon (0.15.0)
+      ffi (>= 1.15.0)
+    ffi (1.15.5)
+    onesignal (1.0.1)
+      typhoeus (~> 1.0, >= 1.0.1)
+    typhoeus (1.4.0)
+      ethon (>= 0.9.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  dotenv (~> 2.7)
+  onesignal (~> 1.0.1)
+
+BUNDLED WITH
+   2.3.7
